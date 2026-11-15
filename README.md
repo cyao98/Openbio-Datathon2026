@@ -7,7 +7,7 @@ OpenBio 2026 Datathon, Track 1: Maternal-Fetal Cell Communication in Preeclampsi
 
 | Name | Role |
 |---|---|
-| | |
+| | Christine|
 
 ## Research Question
 After adjusting for gestational age and FGR, which genes are differentially expressed in PE placentas, and which cell types are they associated with?
