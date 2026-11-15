@@ -4,16 +4,10 @@ OpenBio 2026 Datathon, Track 1: Maternal-Fetal Cell Communication in Preeclampsi
 
 
 ## Team
-
-| Name | Role |
-|---|---|
-| Jason L |Data Analysis |
-|---|---|
-| Aditi C| Writing|
-|---|---|
-|Christine Y | |
-|---|---|
-| | |
+Aditi Chaudhari
+Christine Yao
+Jason Liu
+Ruchika Mudraganam
 
 
 ## Research Question
@@ -51,10 +45,13 @@ Reproducibility details:
 ## Key Findings
 
 [Two or three sentences: the comparison you ran, how many genes passed your thresholds and what the gene browser showed.]
+Out of the five genes selected, _ _ _ _ genes were higher in preeclampsia genes than gestation-matched controls, with a significance of __.
+From our findings, with a padj < 0.05, 348 genes differ between PE and non-PE placentas, after adjusting for gestational age and FGR. Most of them (258) are higher in PE. Some genes, such as FLT1 showed higher activity in PE placentas with concentration in trophoblasts. ENG, FLT1, HTRA4, SERPINA3, and KIT show increased genetic activity in PE placentas, while HSD17B1 gene count lowered across trophoblaast cells.
 
 ## Limitations
 
 [Number of samples, confounders such as gestational age, bulk tissue mixing many cell types, anything else that limits your claims.]
+One limitation of our analysis would be the smaller sample size. A sample size of 30 patients...
 
 ## Presentation
 
