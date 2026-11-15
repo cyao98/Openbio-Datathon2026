@@ -10,14 +10,13 @@ OpenBio 2026 Datathon, Track 1: Maternal-Fetal Cell Communication in Preeclampsi
 | | |
 
 ## Research Question
-
-[One sentence. Example format: "In placental tissue, which genes differ between group A and group B after accounting for X?"]
+After adjusting for gestational age and FGR, which genes are differentially expressed in PE placentas, and which cell types are they associated with?
 
 ## Data Used
 
-- [ ] GSE203507 bulk RNA-seq (required)
-- [ ] Zeisel/Admati gene browser, for at least three genes (required)
-- [ ] Admati/Skarbianskis single-cell pseudobulk files (optional)
+- [-] GSE203507 bulk RNA-seq (required)
+- [-] Zeisel/Admati gene browser, for at least three genes (required)
+- [-] Admati/Skarbianskis single-cell pseudobulk files (optional)
 - [ ] Other public data: [name and link]
 
 ## How to Run
@@ -29,8 +28,8 @@ OpenBio 2026 Datathon, Track 1: Maternal-Fetal Cell Communication in Preeclampsi
 Reproducibility details:
 
 - Notebook or script files:
-- Where we ran it (Colab or our own computer):
-- Random seeds, if any:
+- Where we ran it (Colab or our own computer): Google Colab
+- Random seeds, if any: 
 
 ## Files
 
