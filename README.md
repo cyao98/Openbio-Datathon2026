@@ -47,8 +47,8 @@ From our findings, with a padj < 0.05, 348 genes differ between PE and non-PE pl
 
 ## Limitations
 
-[Number of samples, confounders such as gestational age, bulk tissue mixing many cell types, anything else that limits your claims.]
-One limitation of our analysis would be the smaller sample size. A sample size of 30 patients...
+This study is limited by its small sample size (30 placentas), restriction to early-onset PE, and uneven distribution of clinical groups and gestational ages. The absence of control samples below 30 weeks makes it difficult to distinguish disease-associated expression changes from those related to gestational age. Additionally, batch information was unavailable, and potential confounders such as magnesium sulfate treatment and FGR may influence observed gene expression differences. Incomplete clinical metadata, varying PE diagnostic definitions across datasets, and reliance on a single-cell dataset for cell-type-specific analyses further limit the generalizability and validation of findings.
+
 
 ## Presentation
 
