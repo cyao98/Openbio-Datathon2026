@@ -4,10 +4,10 @@ OpenBio 2026 Datathon, Track 1: Maternal-Fetal Cell Communication in Preeclampsi
 
 
 ## Team
-Aditi Chaudhari
-Christine Yao
-Jason Liu
-Ruchika Mudraganam
+- Aditi Chaudhari
+- Christine Yao
+- Jason Liu
+- Ruchika Mudraganam
 
 
 ## Research Question
